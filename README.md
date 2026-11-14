@@ -54,8 +54,9 @@ Through the SDK, you can map your secure Amazon S3 buckets directly to standard 
 
 ---
 
-## Cloud-Based Disaster Recovery
+## 🏗️ Cloud-Based Disaster Recovery
 Cloud-based Disaster Recovery (Cloud DR) takes a very different approach for disaster recovery based on virtualization. EaseFilter Cloud File System automatically integrates the cloud storage into the on-premies storage, it can deliver a fully functional virtual infrastructure ready to take over an outage disrupt primary services. The virtual file is stored in an offsite public cloud where it remains in standby ready for failover. Data synchronization operates in the background to keep data up-to-date. The entire system can be spun up in minutes, saving the organization from costly service interruption.
+
 ![Cloud File FOLDER](https://www.easefilter.com/images/cloudFolder.png)
 
 **Active-Active Cluster system.** With the [Cloud File System SDK](https://www.easefilter.com/cloud/cloud-file-system-sdk.htm), you can set up two or more active systems, which the virtual files can be accessed from all the active systems, it can distribute your load balance and support the automated fail over without your interference.
